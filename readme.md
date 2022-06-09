@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/realanmup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realanmup" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/realanmup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realanmup" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/realanmup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="realanmup" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/anmup-giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="realanmup" height="30" width="40" /></a>
 <a href="https://fb.com/realanmup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="realanmup" height="30" width="40" /></a>
 <a href="https://instagram.com/realanmup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realanmup" height="30" width="40" /></a>
 </p>
