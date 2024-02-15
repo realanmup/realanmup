@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [anmup.online](https://anmup.online)
 
-- 📝 I regularly write articles on [https://girisaurav.com.np](https://girisaurav.com.np)
+- 📝 I write articles on [https://anmuphd.com](https://anmuphd.com/profile/saurav/)
 
 - 💬 We can talk about **Vuejs, AWS, Laravel, Nodejs, Python**
 
