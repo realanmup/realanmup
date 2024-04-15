@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [https://anmuphd.com](https://anmuphd.com/profile/saurav/)
 
-- 💬 We can talk about **Vuejs, AWS, Laravel, Nodejs, Python**
+- 💬 We can talk about **Software Engineering**
 
 - 📫 How to reach me **realanmup@gmail.com**
 
